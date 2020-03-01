@@ -3,5 +3,5 @@
  (author "Mario Domenech Goulart")
  (category misc)
  (license "BSD")
- (version "0.1")
+ (version "0.2")
  (components (extension this)))
